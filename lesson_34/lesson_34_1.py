@@ -25,3 +25,6 @@ nums7 = ["a", "B", "C", "d"]
 nums8 = list(map(str.swapcase, nums7))
 print(nums8)
 
+d = {"a": 1, "b": 2, "c": 3, "d": 4}
+d2 = {k.upper(): v * 10 for k, v in d.items()}
+print(d2)

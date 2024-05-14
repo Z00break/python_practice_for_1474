@@ -28,6 +28,8 @@
 
 [26.1 проверка на знание функций](lesson_26/lesson%2026.py)
 
+[26.zero_square пример List comprehention](lesson_26/zero_square.py) 
+
 [27.1 шестая функция](lesson_27/lesson%2027.py)
 
 [28.1 седьмая функция](lesson_28/lesson_28_1.py)
@@ -48,6 +50,7 @@
 
 [33.1 восьмая функия](lesson_33/lesson_33_1.py)
 
+[34.1 первое использование map](lesson_34/lesson_34_1.py)
 
 ```python
 def f(i, t, k):
